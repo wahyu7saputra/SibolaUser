@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631582500477",
+    "firebase_url": "https://sibola-a766e.firebaseio.com",
+    "project_id": "sibola-a766e",
+    "storage_bucket": "sibola-a766e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631582500477:android:5e9c7f1d0825f8cb",
+        "android_client_info": {
+          "package_name": "com.sibola.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631582500477-ojjeiivukbt1baukhsridb3ktt1vuke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZRZ3V14pqid3gWNmsQNnUbJr9Zko5lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

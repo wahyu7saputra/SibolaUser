@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SIBOLA</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="sign_in_button_label">Masuk</string>
+    <string name="sign_up_button_label">Daftar</string>
+    <string name="hai">Hai! Deposit kamu sebanyak:</string>
+    <string name="deposit">Rp 0</string>
+    <string name="info_cara_booking">Silahkan klik tanggal lalu pilih slot jam untuk <i>booking</i> jadwal lapangan.</string>
+    <string name="action_signout">Keluar</string>
+    <string name="signup_error_message">Email, Username, dan Password wajib diisi.</string>
+    <string name="signup_error_title">Terjadi Kesalahan!</string>
+    <string name="signup_success">Akun berhasil dibuat, masuk ke aplikasi.</string>
+    <string name="login_error_message">Email dan Password wajib diisi.</string>
+    <string name="login_error_title">Terjadi Kesalahan!</string>
+    <string name="booking">Booking</string>
+    <string name="action_view_schedule">Lihat Jadwal Saya</string>
+    <string name="action_about">Tentang Developer</string>
+    <string name="button_batal">Batal</string>
+
+</resources>
